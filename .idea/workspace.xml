@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgqLxLT03yDP8GiiOl3oDSQiAw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FirstRound" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="" />
+      <created>1579581533949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579581533949</updated>
+      <workItem from="1580683742493" duration="3181000" />
+      <workItem from="1580742224405" duration="686000" />
+      <workItem from="1580870411793" duration="2228000" />
+      <workItem from="1580938909451" duration="1827000" />
+      <workItem from="1580948129052" duration="5297000" />
+      <workItem from="1580966579136" duration="103000" />
+      <workItem from="1581020532057" duration="3138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="258" key="#Project_Structure" timestamp="1579581751408">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="556" y="258" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1579581751408" />
+    <state x="174" y="23" width="997" height="777" key="SettingsEditor" timestamp="1581021879609">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="174" y="23" width="997" height="777" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1581021879609" />
+    <state x="722" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580966645870" />
+    <state x="333" y="215" key="new project wizard" timestamp="1579581711671">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="333" y="215" key="new project wizard/0.23.1920.1057@0.23.1920.1057" timestamp="1579581711671" />
+  </component>
+</project>
