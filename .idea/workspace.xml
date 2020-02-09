@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FirstRound/src/DFS/RestoreIPAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRound/src/Partition/PalindromePartitioning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <workItem from="1581020532057" duration="3138000" />
       <workItem from="1581047432715" duration="81000" />
       <workItem from="1581211179808" duration="1225000" />
-      <workItem from="1581277546122" duration="573000" />
+      <workItem from="1581277546122" duration="992000" />
     </task>
     <servers />
   </component>
