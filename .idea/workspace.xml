@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FirstRound/src/DP/NthTribonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRound/src/DP/JumpGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,8 @@
       <workItem from="1581020532057" duration="3138000" />
       <workItem from="1581047432715" duration="81000" />
       <workItem from="1581211179808" duration="1225000" />
-      <workItem from="1581277546122" duration="2243000" />
+      <workItem from="1581277546122" duration="2420000" />
+      <workItem from="1581347520767" duration="328000" />
     </task>
     <servers />
   </component>
@@ -87,10 +88,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="556" y="258" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1579581751408" />
-    <state x="348" y="41" width="997" height="777" key="SettingsEditor" timestamp="1581277562993">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="174" y="23" width="997" height="777" key="SettingsEditor" timestamp="1581347607767">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="174" y="23" width="997" height="777" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1581021879609" />
+    <state x="174" y="23" width="997" height="777" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1581347607767" />
     <state x="722" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580966645870" />
     <state x="348" y="41" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1581277562993" />
     <state x="333" y="215" key="new project wizard" timestamp="1579581711671">
