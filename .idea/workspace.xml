@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstRound/src/DP/UniquePathsSummary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/MinimumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstRound/src/DP/MinimumPathSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1581347520767" duration="368000" />
       <workItem from="1581360742145" duration="1411000" />
       <workItem from="1581448147427" duration="236000" />
-      <workItem from="1581448678362" duration="308000" />
+      <workItem from="1581448678362" duration="759000" />
     </task>
     <servers />
   </component>
