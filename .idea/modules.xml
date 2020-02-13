@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstRound/DP.iml" filepath="$PROJECT_DIR$/FirstRound/DP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FirstRound/FirstRound.iml" filepath="$PROJECT_DIR$/FirstRound/FirstRound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First&amp;SecondRound/DP.iml" filepath="$PROJECT_DIR$/First&amp;SecondRound/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First&amp;SecondRound/First&amp;SecondRound.iml" filepath="$PROJECT_DIR$/First&amp;SecondRound/First&amp;SecondRound.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodePracticeAndSummary.iml" filepath="$PROJECT_DIR$/LeetCodePracticeAndSummary.iml" />
     </modules>
   </component>
