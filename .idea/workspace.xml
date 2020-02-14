@@ -2,60 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BinarySearch/SearchInsertPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BinarySearch/FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/DP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/DP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/FirstRound.iml" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/First&amp;SecondRound.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Array/MeetingRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/MeetingRooms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Array/MeetingRoomsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/MeetingRoomsII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Array/MeetingRoomsII.webp" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/MeetingRoomsII.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Array/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/MergeIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Array/Non_overlappingIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/Non_overlappingIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Array/ProductofArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/ProductofArrayExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/BFS/Matrix01.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BFS/Matrix01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/BFS/OpentheLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BFS/OpentheLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/BFS/RottingOranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BFS/RottingOranges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/BFS/ShortestBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BFS/ShortestBridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/BFS/WordLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BFS/WordLadder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/BackTracking.doc" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/BackTracking.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/CombinationSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/CombinationSum1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/CombinationSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/CombinationSum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/CombinationSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/CombinationSum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/Combinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/GenerateParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/Subsets1.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/Subsets1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Combination_BackTrack/Subsets2.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Combination_BackTrack/Subsets2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DFS/FloodFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DFS/FloodFill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DFS/RestoreIPAddresses.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DFS/RestoreIPAddresses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DFS/TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DFS/TargetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DFS/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DFS/WordSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/BestTimetoBuyandSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/ClimbingStaris.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/ClimbingStaris.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/ClimbingStarisWithMinCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/ClimbingStarisWithMinCost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/JumpGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/LongestArithmeticSubsequenceofGivenDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/LongestArithmeticSubsequenceofGivenDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/MaximalSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MaximalSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/MinimumFallingPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MinimumFallingPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/MinimumFallingPathSum.png" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MinimumFallingPathSum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/MinimumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MinimumPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/NthTribonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/NthTribonacciNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/RangeSumQueryImmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/RangeSumQueryImmutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/TargetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/DP/UniquePathsSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/UniquePathsSummary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Partition/DifferentWaystoAddParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Partition/DifferentWaystoAddParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Partition/PalindromePartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Partition/PalindromePartitioning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Partition/PartitiontoKEqualSumSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Partition/PartitiontoKEqualSumSubsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Partition/SplitArrayintoFibonacciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Partition/SplitArrayintoFibonacciSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Permutation/LetterCasePermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Permutation/LetterCasePermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Permutation/PalindromePartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Permutation/PalindromePartitioning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Permutation/Permutations1.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Permutation/Permutations1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Permutation/Permutations2.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Permutation/Permutations2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/String/AdStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/String/AdStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/String/MinimumNumberofStepstoMakeTwoStringsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/String/MinimumNumberofStepstoMakeTwoStringsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstRound/src/Tree/SubtreeofAnotherTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/SubtreeofAnotherTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +81,7 @@
       <workItem from="1581360742145" duration="1411000" />
       <workItem from="1581448147427" duration="236000" />
       <workItem from="1581448678362" duration="4104000" />
-      <workItem from="1581548348353" duration="2582000" />
+      <workItem from="1581548348353" duration="3048000" />
     </task>
     <servers />
   </component>
