@@ -10,7 +10,7 @@ public class PathSumIII {
      * TreeNode(int x) { val = x; }
      * }
      */
-    
+
     int result = 0;
 
     public int pathSum(TreeNode root, int sum) {
