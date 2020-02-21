@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable/ValidAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/TopFacebookQuestions/IntersectionofTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/TopFacebookQuestions/IntersectionofTwoArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,8 @@
       <workItem from="1582053360673" duration="258000" />
       <workItem from="1582137624592" duration="314000" />
       <workItem from="1582226695423" duration="130000" />
-      <workItem from="1582227522199" duration="111000" />
+      <workItem from="1582227522199" duration="170000" />
+      <workItem from="1582318030593" duration="193000" />
     </task>
     <servers />
   </component>
@@ -102,9 +103,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="556" y="258" key="#Project_Structure" timestamp="1579581751408">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="371" y="134" key="#Project_Structure" timestamp="1582318053103">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="371" y="134" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1582318053103" />
     <state x="556" y="258" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1579581751408" />
     <state x="395" y="63" width="997" height="777" key="SettingsEditor" timestamp="1581360781026">
       <screen x="54" y="23" width="2506" height="1417" />
