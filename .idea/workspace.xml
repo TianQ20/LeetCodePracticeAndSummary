@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Stack/NextGreaterElementII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/Tencent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/BestTimetoBuyandSellStockII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/DeleteNodeInALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/LowestCommonAncestorofABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MaximumDepthofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/NimGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseWordsInAStringIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +105,8 @@
       <workItem from="1582137624592" duration="314000" />
       <workItem from="1582226695423" duration="130000" />
       <workItem from="1582227522199" duration="170000" />
-      <workItem from="1582318030593" duration="836000" />
+      <workItem from="1582318030593" duration="873000" />
+      <workItem from="1583006069664" duration="6796000" />
     </task>
     <servers />
   </component>
@@ -115,10 +129,10 @@
     <state x="722" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580966645870" />
     <state x="348" y="41" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1581277562993" />
     <state x="395" y="63" key="SettingsEditor/54.23.2506.1417@54.23.2506.1417" timestamp="1581360781026" />
-    <state x="34" y="11" key="new project wizard" timestamp="1582137644472">
+    <state x="34" y="11" key="new project wizard" timestamp="1583006170437">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="34" y="11" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1582137644472" />
+    <state x="34" y="11" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1583006170437" />
     <state x="333" y="215" key="new project wizard/0.23.1920.1057@0.23.1920.1057" timestamp="1579581711671" />
   </component>
   <component name="XDebuggerManager">
