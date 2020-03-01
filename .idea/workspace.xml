@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tencent/Tencent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/BestTimetoBuyandSellStockII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/DeleteNodeInALinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/LowestCommonAncestorofABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MaximumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/NimGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseWordsInAStringIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +93,7 @@
       <workItem from="1582226695423" duration="130000" />
       <workItem from="1582227522199" duration="170000" />
       <workItem from="1582318030593" duration="873000" />
-      <workItem from="1583006069664" duration="6796000" />
+      <workItem from="1583006069664" duration="7280000" />
     </task>
     <servers />
   </component>
