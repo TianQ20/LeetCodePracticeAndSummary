@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/Fibonacci/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/Fibonacci/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/IntersectionofTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +100,9 @@
       <workItem from="1582226695423" duration="130000" />
       <workItem from="1582227522199" duration="170000" />
       <workItem from="1582318030593" duration="873000" />
-      <workItem from="1583006069664" duration="9099000" />
+      <workItem from="1583006069664" duration="9912000" />
+      <workItem from="1583162104502" duration="248000" />
+      <workItem from="1583177023844" duration="1325000" />
     </task>
     <servers />
   </component>
