@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +39,9 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FirstRound" />
     </key>
@@ -119,7 +120,7 @@
       <workItem from="1583286164037" duration="1711000" />
       <workItem from="1583376081005" duration="1408000" />
       <workItem from="1583458459651" duration="101000" />
-      <workItem from="1583523890785" duration="740000" />
+      <workItem from="1583523890785" duration="1043000" />
     </task>
     <servers />
   </component>
