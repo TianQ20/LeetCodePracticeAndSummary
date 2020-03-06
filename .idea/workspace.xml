@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/String/ValidPalindromeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +119,8 @@
       <workItem from="1583279210565" duration="2971000" />
       <workItem from="1583286164037" duration="1711000" />
       <workItem from="1583376081005" duration="1408000" />
-      <workItem from="1583458459651" duration="36000" />
+      <workItem from="1583458459651" duration="101000" />
+      <workItem from="1583523890785" duration="58000" />
     </task>
     <servers />
   </component>
