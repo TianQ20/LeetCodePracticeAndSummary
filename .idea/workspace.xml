@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DivideAndConquer/KthLargestElementInAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,20 @@
       <recent name="$PROJECT_DIR$/FirstRound" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayListProj">
+    <configuration name="ArrayListProj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ArrayListProj" />
+      <module name="DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSort" />
       <module name="Tencent" />
@@ -65,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListProj" />
         <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
@@ -125,7 +138,7 @@
       <workItem from="1583458459651" duration="101000" />
       <workItem from="1583523890785" duration="2143000" />
       <workItem from="1583809829236" duration="48000" />
-      <workItem from="1583812403124" duration="291000" />
+      <workItem from="1583812403124" duration="1772000" />
     </task>
     <servers />
   </component>
@@ -141,26 +154,30 @@
     </state>
     <state x="371" y="134" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1582318053103" />
     <state x="556" y="258" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1579581751408" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1583286158670">
-      <screen x="54" y="23" width="1226" height="777" />
+    <state width="891" height="289" key="GridCell.Tab.0.bottom" timestamp="1583877002428">
+      <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1583286158669">
-      <screen x="54" y="23" width="1226" height="777" />
+    <state width="891" height="289" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002428" />
+    <state width="891" height="289" key="GridCell.Tab.0.center" timestamp="1583877002427">
+      <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583281062500" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1583286158669">
-      <screen x="54" y="23" width="1226" height="777" />
+    <state width="891" height="289" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002427" />
+    <state width="891" height="289" key="GridCell.Tab.0.left" timestamp="1583877002427">
+      <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583281062499" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1583286158670">
-      <screen x="54" y="23" width="1226" height="777" />
+    <state width="891" height="289" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002427" />
+    <state width="891" height="289" key="GridCell.Tab.0.right" timestamp="1583877002428">
+      <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
+    <state width="891" height="289" key="GridCell.Tab.0.right/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002428" />
     <state x="395" y="63" width="997" height="777" key="SettingsEditor" timestamp="1581360781026">
       <screen x="54" y="23" width="2506" height="1417" />
     </state>
