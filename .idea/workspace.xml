@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/CSharp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Clojure" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Groovy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Haskell" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/JavaScript" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/JavaScript-ES2015" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Julia" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Kotlin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Objective-C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Ruby" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_BooleanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First&amp;SecondRound/DP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/CtCI-6th-Edition.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +57,13 @@
       <recent name="$PROJECT_DIR$/FirstRound" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListProj">
-    <configuration name="ArrayListProj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ArrayListProj" />
-      <module name="DP" />
+  <component name="RunManager" selected="Application.Q1_Is_Unique_Bitwise">
+    <configuration name="Q1_Is_Unique_Bitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q1_Is_Unique_Bitwise" />
+      <module name="CtCI-6th-Edition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,23 +71,112 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSort" />
-      <module name="Tencent" />
+    <configuration name="Q1_Is_Unique_BooleanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q1_Is_Unique_BooleanArray" />
+      <module name="CtCI-6th-Edition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuickSort.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_Is_Unique_ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q1_Is_Unique_ForLoops" />
+      <module name="CtCI-6th-Edition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_Is_Unique_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q1_Is_Unique_HashMap" />
+      <module name="CtCI-6th-Edition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q1_Tester" />
+      <module name="CtCI-6th-Edition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="LeetCode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="LeetCode" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListProj" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Q1_Is_Unique_Bitwise" />
+        <item itemvalue="Application.Q1_Is_Unique_BooleanArray" />
+        <item itemvalue="Application.Q1_Is_Unique_HashMap" />
+        <item itemvalue="Application.Q1_Is_Unique_ForLoops" />
+        <item itemvalue="Application.Q1_Tester" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +236,7 @@
       <workItem from="1583458459651" duration="101000" />
       <workItem from="1583523890785" duration="2143000" />
       <workItem from="1583809829236" duration="48000" />
-      <workItem from="1583812403124" duration="2006000" />
+      <workItem from="1583812403124" duration="7324000" />
     </task>
     <servers />
   </component>
@@ -164,39 +247,44 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="134" key="#Project_Structure" timestamp="1582318053103">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="595" y="200" key="#Project_Structure" timestamp="1583877823195">
+      <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state x="371" y="134" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1582318053103" />
     <state x="556" y="258" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1579581751408" />
+    <state x="595" y="200" key="#Project_Structure/54.23.1866.1057@54.23.1866.1057" timestamp="1583877823195" />
     <state x="849" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583877586874">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state x="849" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.23.1866.1057@54.23.1866.1057" timestamp="1583877586874" />
-    <state width="891" height="289" key="GridCell.Tab.0.bottom" timestamp="1583877554936">
+    <state x="1003" y="482" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583878120280">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state x="1003" y="482" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/54.23.1866.1057@54.23.1866.1057" timestamp="1583878120280" />
+    <state width="891" height="115" key="GridCell.Tab.0.bottom" timestamp="1583883467762">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
-    <state width="891" height="289" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554936" />
-    <state width="891" height="289" key="GridCell.Tab.0.center" timestamp="1583877554934">
+    <state width="891" height="115" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1583883467762" />
+    <state width="891" height="115" key="GridCell.Tab.0.center" timestamp="1583883467762">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583281062500" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
-    <state width="891" height="289" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554934" />
-    <state width="891" height="289" key="GridCell.Tab.0.left" timestamp="1583877554934">
+    <state width="891" height="115" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1583883467762" />
+    <state width="891" height="115" key="GridCell.Tab.0.left" timestamp="1583883467761">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583281062499" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
-    <state width="891" height="289" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554934" />
-    <state width="891" height="289" key="GridCell.Tab.0.right" timestamp="1583877554935">
+    <state width="891" height="115" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1583883467761" />
+    <state width="891" height="115" key="GridCell.Tab.0.right" timestamp="1583883467762">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
-    <state width="891" height="289" key="GridCell.Tab.0.right/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554935" />
+    <state width="891" height="115" key="GridCell.Tab.0.right/54.23.1866.1057@54.23.1866.1057" timestamp="1583883467762" />
     <state x="395" y="63" width="997" height="777" key="SettingsEditor" timestamp="1581360781026">
       <screen x="54" y="23" width="2506" height="1417" />
     </state>
@@ -204,11 +292,12 @@
     <state x="722" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580966645870" />
     <state x="348" y="41" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1581277562993" />
     <state x="395" y="63" key="SettingsEditor/54.23.2506.1417@54.23.2506.1417" timestamp="1581360781026" />
-    <state x="34" y="11" key="new project wizard" timestamp="1583006170437">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="624" y="258" key="new project wizard" timestamp="1583878536242">
+      <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state x="34" y="11" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1583006170437" />
     <state x="333" y="215" key="new project wizard/0.23.1920.1057@0.23.1920.1057" timestamp="1579581711671" />
+    <state x="624" y="258" key="new project wizard/54.23.1866.1057@54.23.1866.1057" timestamp="1583878536242" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
