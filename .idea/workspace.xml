@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/CSharp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Clojure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Haskell" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/JavaScript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/JavaScript-ES2015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Julia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Kotlin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Objective-C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Ruby" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/Swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition/php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +35,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WgqLxLT03yDP8GiiOl3oDSQiAw" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -138,7 +153,7 @@
       <workItem from="1583458459651" duration="101000" />
       <workItem from="1583523890785" duration="2143000" />
       <workItem from="1583809829236" duration="48000" />
-      <workItem from="1583812403124" duration="1772000" />
+      <workItem from="1583812403124" duration="2006000" />
     </task>
     <servers />
   </component>
@@ -154,30 +169,34 @@
     </state>
     <state x="371" y="134" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1582318053103" />
     <state x="556" y="258" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1579581751408" />
-    <state width="891" height="289" key="GridCell.Tab.0.bottom" timestamp="1583877002428">
+    <state x="849" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583877586874">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state x="849" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.23.1866.1057@54.23.1866.1057" timestamp="1583877586874" />
+    <state width="891" height="289" key="GridCell.Tab.0.bottom" timestamp="1583877554936">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
-    <state width="891" height="289" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002428" />
-    <state width="891" height="289" key="GridCell.Tab.0.center" timestamp="1583877002427">
+    <state width="891" height="289" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554936" />
+    <state width="891" height="289" key="GridCell.Tab.0.center" timestamp="1583877554934">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583281062500" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
-    <state width="891" height="289" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002427" />
-    <state width="891" height="289" key="GridCell.Tab.0.left" timestamp="1583877002427">
+    <state width="891" height="289" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554934" />
+    <state width="891" height="289" key="GridCell.Tab.0.left" timestamp="1583877554934">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583281062499" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
-    <state width="891" height="289" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002427" />
-    <state width="891" height="289" key="GridCell.Tab.0.right" timestamp="1583877002428">
+    <state width="891" height="289" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554934" />
+    <state width="891" height="289" key="GridCell.Tab.0.right" timestamp="1583877554935">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
-    <state width="891" height="289" key="GridCell.Tab.0.right/54.23.1866.1057@54.23.1866.1057" timestamp="1583877002428" />
+    <state width="891" height="289" key="GridCell.Tab.0.right/54.23.1866.1057@54.23.1866.1057" timestamp="1583877554935" />
     <state x="395" y="63" width="997" height="777" key="SettingsEditor" timestamp="1581360781026">
       <screen x="54" y="23" width="2506" height="1417" />
     </state>
