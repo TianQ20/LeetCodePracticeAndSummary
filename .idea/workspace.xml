@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MinimumSwapsToMakeSequencesIncreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/CoinChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +123,8 @@
       <workItem from="1583286164037" duration="1711000" />
       <workItem from="1583376081005" duration="1408000" />
       <workItem from="1583458459651" duration="101000" />
-      <workItem from="1583523890785" duration="2071000" />
+      <workItem from="1583523890785" duration="2143000" />
+      <workItem from="1583809829236" duration="48000" />
     </task>
     <servers />
   </component>
