@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Stack/DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Greedy/TaskScheduler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +229,7 @@
       <workItem from="1583523890785" duration="2143000" />
       <workItem from="1583809829236" duration="48000" />
       <workItem from="1583812403124" duration="7456000" />
-      <workItem from="1583885083688" duration="2077000" />
+      <workItem from="1583885083688" duration="2716000" />
     </task>
     <servers />
   </component>
@@ -289,10 +289,11 @@
     <state x="722" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580966645870" />
     <state x="348" y="41" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1581277562993" />
     <state x="395" y="63" key="SettingsEditor/54.23.2506.1417@54.23.2506.1417" timestamp="1581360781026" />
-    <state x="624" y="258" key="new project wizard" timestamp="1583878536242">
-      <screen x="54" y="23" width="1866" height="1057" />
+    <state x="586" y="240" key="new project wizard" timestamp="1584158643398">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="34" y="11" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1583006170437" />
+    <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584158643398" />
     <state x="333" y="215" key="new project wizard/0.23.1920.1057@0.23.1920.1057" timestamp="1579581711671" />
     <state x="624" y="258" key="new project wizard/54.23.1866.1057@54.23.1866.1057" timestamp="1583878536242" />
   </component>
