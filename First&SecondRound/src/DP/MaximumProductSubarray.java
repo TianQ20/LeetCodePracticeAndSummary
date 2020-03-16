@@ -11,7 +11,7 @@ public class MaximumProductSubarray {
                     imax = imin;
                     imin = tmp;
                 }
-                
+
                 // when nums[i] < 0, then the imax would be imin this time, since the max number times a negative number will be the min number.
                 // max/min product for the current number is either the current number itself
                 // or the max/min by the previous number times the current one
