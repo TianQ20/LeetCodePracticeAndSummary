@@ -10,7 +10,7 @@ public class SymmetricTree {
      *     TreeNode(int x) { val = x; }
      * }
      */
-    
+
     // Recursion
 
     class Solution {

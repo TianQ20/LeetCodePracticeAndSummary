@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/TwoPointers/FindtheDuplicateNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/SymmetricTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +247,7 @@
       <workItem from="1583885083688" duration="2757000" />
       <workItem from="1584209373336" duration="7281000" />
       <workItem from="1584286218005" duration="4666000" />
-      <workItem from="1584475306113" duration="180000" />
+      <workItem from="1584475306113" duration="912000" />
     </task>
     <servers />
   </component>
