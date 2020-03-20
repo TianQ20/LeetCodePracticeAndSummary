@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/HouseRobberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/BinaryTree/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/BinaryTree/LevelOrder_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/src/BinaryTree/LevelOrder_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Greedy/HouseRobberIII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tencent/QuickSort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tencent/QuickSort/QuickSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,6 +253,7 @@
       <workItem from="1584667062260" duration="635000" />
       <workItem from="1584667727111" duration="1061000" />
       <workItem from="1584669320685" duration="137000" />
+      <workItem from="1584674828331" duration="147000" />
     </task>
     <servers />
   </component>
