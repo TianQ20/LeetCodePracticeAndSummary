@@ -1,5 +1,7 @@
 package ArraysAndStrings;
 
+// Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+
 public class Q1_Is_Unique_Bitwise {
     // O(N)
     // Actually the same idea as the boolean array, update checker value,
