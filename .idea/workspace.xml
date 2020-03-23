@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q3_URLify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/CreateTargetArrayintheGivenOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Math/FourDivisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CtCI-6th-Edition/ArraysAndStrings/Q2_Check_Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CtCI-6th-Edition/ArraysAndStrings/Q2_Check_Permutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/TwoPointers/SquaresofaSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +208,7 @@
       <workItem from="1584674828331" duration="355000" />
       <workItem from="1584736662414" duration="1312000" />
       <workItem from="1584759846662" duration="2488000" />
+      <workItem from="1584935017607" duration="29000" />
     </task>
     <servers />
   </component>
