@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/TwoPointers/SquaresofaSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Greedy/GasStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +209,8 @@
       <workItem from="1584674828331" duration="355000" />
       <workItem from="1584736662414" duration="1312000" />
       <workItem from="1584759846662" duration="2488000" />
-      <workItem from="1584935017607" duration="29000" />
+      <workItem from="1584935017607" duration="116000" />
+      <workItem from="1585098339108" duration="430000" />
     </task>
     <servers />
   </component>
