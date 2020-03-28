@@ -3,7 +3,7 @@ package ArraysAndStrings;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Q3_URLify {
+class Q3_URLify1 {
     static class Trim {
         public static void main(String[] args) {
             String str = "Mr John Smith   ";
@@ -15,10 +15,7 @@ public class Q3_URLify {
             str = str.replaceAll("\\u0020", "%20");
 
             // Display the result
-            System.out.println(str);
+            System.out.println("\""+ str + "\"");
         }
     }
-
-
-
 }
