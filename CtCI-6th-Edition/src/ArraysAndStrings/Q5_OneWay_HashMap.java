@@ -3,7 +3,7 @@ package ArraysAndStrings;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Q5_OneWay {
+public class Q5_OneWay_HashMap {
     // 替换 && 长度相等
     // 增加 +1
     // 减少 -1
