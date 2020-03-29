@@ -18,11 +18,21 @@ public class Q1_RemoveDups_C {
                     LinkedListNode tmp = current.next;
                     previous.next = tmp;
                     current = tmp;
+
+                    /* We know we can't have more than one dup preceding
+                     * our element since it would have been removed
+                     * earlier. */
                     break;
                 }
                 runner = runner.next;
             }
 
+            /* If runner == current, then we didn't find any duplicate
+             * elements in the previous for loop.  We then need to
+             * increment current.
+             * If runner != current, then we must have hit the break
+             * condition, in which case we found a dup and current has
+             * already been incremented.*/
             if (runner == current) { // 此时runner刚好移到current的节点上，此时不需要比较，因为自己和自己不是重复节点。
                 previous = current;
                 current = current.next;
