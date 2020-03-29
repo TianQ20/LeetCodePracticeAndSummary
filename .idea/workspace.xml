@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/AssortedMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q8_ZeroMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q9_StringRotation_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q9_StringRotation_B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CtCI-6th-Edition/ArraysAndStrings/Q8_ZeroMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CtCI-6th-Edition/ArraysAndStrings/Q8_ZeroMatrix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,33 +66,7 @@
       <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q8_ZeroMatrix">
-    <configuration name="Q6_StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q6_StringCompression" />
-      <module name="CtCI-6th-Edition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q6_StringCompression_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q6_StringCompression_A" />
-      <module name="CtCI-6th-Edition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q9_StringRotation_A">
     <configuration name="Q6_StringCompression_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q6_StringCompression_B" />
       <module name="CtCI-6th-Edition" />
@@ -131,13 +106,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q9_StringRotation_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q9_StringRotation_A" />
+      <module name="CtCI-6th-Edition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q9_StringRotation_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q9_StringRotation_B" />
+      <module name="CtCI-6th-Edition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q9_StringRotation_A" />
+        <item itemvalue="Application.Q9_StringRotation_B" />
         <item itemvalue="Application.Q8_ZeroMatrix" />
         <item itemvalue="Application.Q7_RotateMatrix" />
         <item itemvalue="Application.Q6_StringCompression_B" />
-        <item itemvalue="Application.Q6_StringCompression_A" />
-        <item itemvalue="Application.Q6_StringCompression" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +214,7 @@
       <workItem from="1584759846662" duration="2488000" />
       <workItem from="1584935017607" duration="116000" />
       <workItem from="1585098339108" duration="6625000" />
-      <workItem from="1585366995032" duration="19034000" />
+      <workItem from="1585366995032" duration="21126000" />
     </task>
     <servers />
   </component>
@@ -238,42 +239,42 @@
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state x="1003" y="482" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/54.23.1866.1057@54.23.1866.1057" timestamp="1583878120280" />
-    <state width="918" height="209" key="GridCell.Tab.0.bottom" timestamp="1585446918950">
+    <state width="918" height="209" key="GridCell.Tab.0.bottom" timestamp="1585448981506">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1878" height="115" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315857" />
-    <state width="918" height="209" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585446918950" />
+    <state width="918" height="209" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585448981506" />
     <state width="1303" height="209" key="GridCell.Tab.0.bottom/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.bottom/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
     <state width="891" height="209" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="918" height="209" key="GridCell.Tab.0.center" timestamp="1585446918948">
+    <state width="918" height="209" key="GridCell.Tab.0.center" timestamp="1585448981505">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583281062500" />
     <state width="1878" height="115" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315856" />
-    <state width="918" height="209" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585446918948" />
+    <state width="918" height="209" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585448981505" />
     <state width="1303" height="209" key="GridCell.Tab.0.center/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.center/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="918" height="209" key="GridCell.Tab.0.left" timestamp="1585446918948">
+    <state width="918" height="209" key="GridCell.Tab.0.left" timestamp="1585448981504">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583281062499" />
     <state width="1878" height="115" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315855" />
-    <state width="918" height="209" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585446918948" />
+    <state width="918" height="209" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585448981504" />
     <state width="1303" height="209" key="GridCell.Tab.0.left/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100010" />
     <state width="1303" height="209" key="GridCell.Tab.0.left/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233826" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014445" />
-    <state width="918" height="209" key="GridCell.Tab.0.right" timestamp="1585446918949">
+    <state width="918" height="209" key="GridCell.Tab.0.right" timestamp="1585448981505">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1878" height="115" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315856" />
-    <state width="918" height="209" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585446918949" />
+    <state width="918" height="209" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585448981505" />
     <state width="1303" height="209" key="GridCell.Tab.0.right/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.right/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
