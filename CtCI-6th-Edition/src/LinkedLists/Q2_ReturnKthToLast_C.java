@@ -18,7 +18,7 @@ public class Q2_ReturnKthToLast_C {
             }
             p1 = p1.next;
         }
-        
+
         /* Move them at the same pace. When p1 hits the end,
          * p2 will be at the right element. */
         while (p1 != null) {
