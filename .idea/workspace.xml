@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/LeetCodeTopicsReview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search/CombinationSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search/LetterCombinationsOfAPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +216,7 @@
       <workItem from="1584759846662" duration="2488000" />
       <workItem from="1584935017607" duration="116000" />
       <workItem from="1585098339108" duration="6625000" />
-      <workItem from="1585366995032" duration="30791000" />
+      <workItem from="1585366995032" duration="31251000" />
     </task>
     <servers />
   </component>
