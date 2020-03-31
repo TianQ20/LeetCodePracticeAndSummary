@@ -14,9 +14,9 @@ public class CombinationSum {
             return list;
         }
 
-        public void DFS(int[] candidates, int target, int start, List<Integer> cur, List<List<Integer>> list) {
+        public void DFS(int[] candidates, int target, int start, List<Integer> curr, List<List<Integer>> list) {
             if (target == 0) {
-                list.add(new ArrayList<>(cur));
+                list.add(new ArrayList<>(curr));
                 return;
             }
 
@@ -24,9 +24,9 @@ public class CombinationSum {
                 if (candidates[i] > target) {
                     break;
                 }
-                cur.add(candidates[i]);
-                DFS(candidates, target - candidates[i], i, cur, list); // can reuse the same element, so use i rather than i + 1
-                cur.remove(cur.size() - 1);
+                curr.add(candidates[i]);
+                DFS(candidates, target - candidates[i], i, curr, list); // can reuse the same element, so use i rather than i + 1
+                curr.remove(curr.size() - 1);
             }
         }
     }
@@ -39,18 +39,18 @@ public class CombinationSum {
 
         public List<List<Integer>> combinationSum(int[] candidates, int target) {
             List<List<Integer>> list = new ArrayList<>();
-            List<Integer> cur = new ArrayList<>();
+            List<Integer> curr = new ArrayList<>();
             Arrays.sort(candidates);
             for (int n = 1; n <= target / candidates[0]; ++n) {
-                DFS(candidates, target, 0, 0, n, cur, list);
+                DFS(candidates, target, 0, 0, n, curr, list);
             }
             return list;
         }
 
-        public void DFS(int[] candidates, int target, int start, int depth, int n, List<Integer> cur, List<List<Integer>> list) {
+        public void DFS(int[] candidates, int target, int start, int depth, int n, List<Integer> curr, List<List<Integer>> list) {
             if (depth == n) {
                 if (target == 0) {
-                    list.add(new ArrayList<>(cur));
+                    list.add(new ArrayList<>(curr));
                     return;
                 }
             }
@@ -59,9 +59,9 @@ public class CombinationSum {
                 if (candidates[i] > target) {
                     break;
                 }
-                cur.add(candidates[i]);
-                DFS(candidates, target - candidates[i], i, depth + 1, n, cur, list); // can reuse the same element, so use i rather than i + 1
-                cur.remove(cur.size() - 1);
+                curr.add(candidates[i]);
+                DFS(candidates, target - candidates[i], i, depth + 1, n, curr, list); // can reuse the same element, so use i rather than i + 1
+                curr.remove(curr.size() - 1);
             }
         }
     }
