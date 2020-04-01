@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Subsets {
-    class Solution {
+    class Solution_DFS {
         public List<List<Integer>> subsets(int[] nums) {
             List<Integer> curr = new ArrayList<>();
             List<List<Integer>> list = new ArrayList<>();
@@ -31,6 +31,24 @@ public class Subsets {
                 DFS(nums, i + 1, curr, list);
                 curr.remove(curr.size() - 1);
             }
+        }
+    }
+
+    class Solutions_Bitwise {
+        public List<List<Integer>> subsets(int[] nums) {
+            if (nums.length == 0) return new ArrayList<>();
+            List<List<Integer>> list = new ArrayList<>();
+
+            for (int s = 0; s < (1 << nums.length); ++s) {
+                List<Integer> curr = new ArrayList<>();
+                for (int i = 0; i < nums.length; ++i) {
+                    if ((s & (1 << i)) != 0) { // s & (1 << i) => nums[i] selected
+                        curr.add(nums[i]);
+                    }
+                }
+                list.add(new ArrayList<>(curr));
+            }
+            return list;
         }
     }
 }
