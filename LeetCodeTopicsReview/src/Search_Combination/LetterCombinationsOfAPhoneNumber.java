@@ -1,4 +1,4 @@
-package Search;
+package Search_Combination;
 
 import java.util.ArrayList;
 import java.util.HashMap;
