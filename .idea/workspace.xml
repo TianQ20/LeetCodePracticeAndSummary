@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_DFS/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_Permutation/FindtheShortestSuperstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -218,7 +218,7 @@
       <workItem from="1585366995032" duration="31837000" />
       <workItem from="1585618957718" duration="2363000" />
       <workItem from="1585702459807" duration="6702000" />
-      <workItem from="1585835385700" duration="218000" />
+      <workItem from="1585835385700" duration="374000" />
     </task>
     <servers />
   </component>
