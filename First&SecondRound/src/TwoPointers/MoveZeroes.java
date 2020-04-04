@@ -1,7 +1,7 @@
 package TwoPointers;
 
 public class MoveZeroes {
-    
+
     class Solution_TwoPointers {
         public void moveZeroes(int[] nums) {
             int j = 0;
