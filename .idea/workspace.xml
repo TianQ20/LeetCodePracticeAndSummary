@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/CousinsinBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_Permutation/NumberofSquarefulArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/VerticalOrderTraversalofaBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/VerticalOrderTraversalofaBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +219,8 @@
       <workItem from="1585618957718" duration="2363000" />
       <workItem from="1585702459807" duration="6702000" />
       <workItem from="1585835385700" duration="1985000" />
-      <workItem from="1586014464081" duration="3364000" />
+      <workItem from="1586014464081" duration="3482000" />
+      <workItem from="1586056136551" duration="72000" />
     </task>
     <servers />
   </component>
