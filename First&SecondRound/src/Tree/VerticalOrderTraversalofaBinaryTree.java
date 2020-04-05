@@ -22,7 +22,7 @@ public class VerticalOrderTraversalofaBinaryTree {
     // if two nodes are on the same level then they will be sorted
     // Do not fully sort a vertical column! That will fail test cases.
 
-        
+
     class Solution {
         public List<List<Integer>> verticalTraversal(TreeNode root) {
             TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
