@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable/NumberofAtoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_DFS/RemoveInvalidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,31 +56,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LinkedLists" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable" />
+      <recent name="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings" />
+      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FirstRound" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings" />
-      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q3_DeleteMiddleNode">
-    <configuration name="Q1_RemoveDups_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedLists.Q1_RemoveDups_C" />
-      <module name="CtCI-6th-Edition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="Q2_ReturnKthToLast_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedLists.Q2_ReturnKthToLast_A" />
       <module name="CtCI-6th-Edition" />
@@ -133,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_DFS.test" />
+      <module name="LeetCodeTopicsReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search_DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Q3_DeleteMiddleNode" />
         <item itemvalue="Application.Q2_ReturnKthToLast_C" />
         <item itemvalue="Application.Q2_ReturnKthToLast_B" />
         <item itemvalue="Application.Q2_ReturnKthToLast_A" />
-        <item itemvalue="Application.Q1_RemoveDups_C" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +222,8 @@
       <workItem from="1585835385700" duration="1985000" />
       <workItem from="1586014464081" duration="3482000" />
       <workItem from="1586056136551" duration="107000" />
-      <workItem from="1586138229479" duration="1131000" />
+      <workItem from="1586138229479" duration="1323000" />
+      <workItem from="1586192767091" duration="1837000" />
     </task>
     <servers />
   </component>
@@ -250,45 +252,45 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="1396" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585495687333" />
-    <state width="1878" height="209" key="GridCell.Tab.0.bottom" timestamp="1585538394007">
+    <state width="1878" height="209" key="GridCell.Tab.0.bottom" timestamp="1586201258264">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1878" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585538394007" />
-    <state width="1878" height="115" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315857" />
+    <state width="1878" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586201258264" />
     <state width="918" height="209" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667304" />
     <state width="1303" height="209" key="GridCell.Tab.0.bottom/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.bottom/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
     <state width="891" height="209" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="1878" height="209" key="GridCell.Tab.0.center" timestamp="1585538394006">
+    <state width="1878" height="209" key="GridCell.Tab.0.center" timestamp="1586201258263">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583281062500" />
     <state width="1878" height="209" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585538394006" />
-    <state width="1878" height="115" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315856" />
+    <state width="1878" height="209" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586201258263" />
     <state width="918" height="209" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667303" />
     <state width="1303" height="209" key="GridCell.Tab.0.center/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.center/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="1878" height="209" key="GridCell.Tab.0.left" timestamp="1585538394005">
+    <state width="1878" height="209" key="GridCell.Tab.0.left" timestamp="1586201258262">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583281062499" />
     <state width="1878" height="209" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585538394005" />
-    <state width="1878" height="115" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315855" />
+    <state width="1878" height="209" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586201258262" />
     <state width="918" height="209" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667302" />
     <state width="1303" height="209" key="GridCell.Tab.0.left/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100010" />
     <state width="1303" height="209" key="GridCell.Tab.0.left/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233826" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014445" />
-    <state width="1878" height="209" key="GridCell.Tab.0.right" timestamp="1585538394007">
+    <state width="1878" height="209" key="GridCell.Tab.0.right" timestamp="1586201258263">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583281062501" />
     <state width="1878" height="209" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585538394007" />
-    <state width="1878" height="115" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584669315856" />
+    <state width="1878" height="209" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586201258263" />
     <state width="918" height="209" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667304" />
     <state width="1303" height="209" key="GridCell.Tab.0.right/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.right/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
