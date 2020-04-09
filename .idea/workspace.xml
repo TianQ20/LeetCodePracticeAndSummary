@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable/CountingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS/WordLadder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +57,17 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable" />
-      <recent name="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings" />
-      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedLists" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FirstRound" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LinkedLists" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS" />
+      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable" />
+      <recent name="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings" />
+      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
     </key>
   </component>
   <component name="RunManager" selected="Application.test">
@@ -224,7 +227,9 @@
       <workItem from="1586138229479" duration="1323000" />
       <workItem from="1586192767091" duration="2201000" />
       <workItem from="1586219571820" duration="738000" />
-      <workItem from="1586224321781" duration="1912000" />
+      <workItem from="1586224321781" duration="2001000" />
+      <workItem from="1586358726899" duration="612000" />
+      <workItem from="1586400063121" duration="178000" />
     </task>
     <servers />
   </component>
