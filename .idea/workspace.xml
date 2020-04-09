@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/TwoPointers/MiddleoftheLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS/WordLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS/WordLadder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +228,7 @@
       <workItem from="1586219571820" duration="738000" />
       <workItem from="1586224321781" duration="2001000" />
       <workItem from="1586358726899" duration="612000" />
-      <workItem from="1586400063121" duration="426000" />
+      <workItem from="1586400063121" duration="673000" />
     </task>
     <servers />
   </component>
