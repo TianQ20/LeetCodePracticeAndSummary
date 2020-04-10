@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS/WordLadderII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_Partition/PartitiontoKEqualSumSubsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,17 +56,17 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LinkedLists" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/FirstRound" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS" />
       <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable" />
       <recent name="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings" />
       <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FirstRound" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedLists" />
     </key>
   </component>
   <component name="RunManager" selected="Application.test">
@@ -232,7 +232,7 @@
       <workItem from="1586402746332" duration="32000" />
       <workItem from="1586467978367" duration="353000" />
       <workItem from="1586468699432" duration="82000" />
-      <workItem from="1586525293962" duration="1832000" />
+      <workItem from="1586525293962" duration="2284000" />
     </task>
     <servers />
   </component>
