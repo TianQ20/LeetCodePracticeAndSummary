@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/DiameterofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/PriorityQueue/LastStoneWeight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +234,8 @@
       <workItem from="1586468699432" duration="82000" />
       <workItem from="1586525293962" duration="2365000" />
       <workItem from="1586579736890" duration="421000" />
-      <workItem from="1586624188377" duration="30000" />
+      <workItem from="1586624188377" duration="211000" />
+      <workItem from="1586718595548" duration="39000" />
     </task>
     <servers />
   </component>
