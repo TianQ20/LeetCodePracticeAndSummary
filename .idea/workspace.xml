@@ -2,8 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Microsoft/src/ms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable/ContiguousArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/FindAllNumbersDisappearedinanArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/MajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/MeetingRooms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/MeetingRoomsII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/MeetingRoomsII.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/MergeIntervals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/Non_overlappingIntervals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/ProductofArrayExceptSelf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Array/ShortestUnsortedContinuousSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BFS/Matrix01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BFS/OpentheLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BFS/RottingOranges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BFS/ShortestBridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BFS/WordLadder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BinarySearch/BinarySearch1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BinarySearch/BinarySearch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BinarySearch/FindFirstandLastPositionofElementinSortedArray1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BinarySearch/FindFirstandLastPositionofElementinSortedArray2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BinarySearch/SearchInsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BinarySearch/SearchinRotatedSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/BinarySearch/SqrtX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/BackTracking.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/CombinationSum1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/CombinationSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/CombinationSum3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/Combinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/GenerateParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/Subsets1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Combination_BackTrack/Subsets2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DFS/FloodFill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DFS/RestoreIPAddresses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DFS/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DFS/TargetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DFS/WordSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/BestTimetoBuyandSellStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/BestTimetoBuyandSellStockwithCooldown$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/BestTimetoBuyandSellStockwithCooldown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/BestTimetoBuyandSellStockwithCooldown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/ClimbingStaris.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/ClimbingStarisWithMinCost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/CoinChange$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/CountSquareSubmatriceswithAllOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/DeleteAndEarn$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/DeleteAndEarn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/DominoAndTrominoTiling$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/DominoAndTrominoTiling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/DominoAndTrominoTiling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/HouseRobberII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/JumpGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/LongestArithmeticSubsequenceofGivenDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MaximalSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MaximumSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MinimumFallingPathSum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MinimumFallingPathSum1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MinimumFallingPathSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MinimumPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MinimumSwapsToMakeSequencesIncreasing$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MinimumSwapsToMakeSequencesIncreasing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/MinimumSwapsToMakeSequencesIncreasing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/NthTribonacciNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/RangeSumQueryImmutable$NumArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/RangeSumQueryImmutable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/TargetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/Triangle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/Triangle2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/UniquePaths1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DP/UniquePaths2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DivideAndConquer/KthLargestElementInAnArray$Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DivideAndConquer/KthLargestElementInAnArray$Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DivideAndConquer/KthLargestElementInAnArray$Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DivideAndConquer/KthLargestElementInAnArray$Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/DivideAndConquer/KthLargestElementInAnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/HashTable/ValidAnagram_hashtable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/HashTable/ValidAnagram_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/LinkedList/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/LinkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/META-INF/DP.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Partition/DifferentWaystoAddParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Partition/PalindromePartitioning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Partition/PartitiontoKEqualSumSubsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Partition/SplitArrayintoFibonacciSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Permutation/LetterCasePermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Permutation/PalindromePartitioning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Permutation/Permutaions1_backtrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Permutation/Permutations1_DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Permutation/Permutations2_DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Permutation/Permutations2_backtrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Sort/MaximumNumberofEventsThatCanBeAttended.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Stack/NextGreaterElementI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Stack/NextGreaterElementII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/String/AdStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/String/MinimumNumberofStepstoMakeTwoStringsAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/String/ValidPalindromeII$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/String/ValidPalindromeII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Tree/PathSumIII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Tree/SubtreeofAnotherTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/Tree/TreeNode.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +138,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -139,18 +236,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -231,12 +316,15 @@
       <workItem from="1586624188377" duration="211000" />
       <workItem from="1586718595548" duration="638000" />
       <workItem from="1586739429840" duration="334000" />
-      <workItem from="1586742078814" duration="3455000" />
+      <workItem from="1586742078814" duration="3559000" />
+      <workItem from="1586869622844" duration="29000" />
+      <workItem from="1586869697669" duration="78000" />
+      <workItem from="1586973035353" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -260,10 +348,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="1396" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585495687333" />
-    <state width="1238" height="143" key="GridCell.Tab.0.bottom" timestamp="1586745719534">
+    <state width="1238" height="143" key="GridCell.Tab.0.bottom" timestamp="1586746048422">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="143" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586745719534" />
+    <state width="1238" height="143" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586746048422" />
     <state width="1878" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743315" />
     <state width="1878" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586206884181" />
     <state width="918" height="209" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667304" />
@@ -271,10 +359,10 @@
     <state width="1303" height="209" key="GridCell.Tab.0.bottom/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
     <state width="891" height="209" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="1238" height="143" key="GridCell.Tab.0.center" timestamp="1586745719533">
+    <state width="1238" height="143" key="GridCell.Tab.0.center" timestamp="1586746048421">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="143" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586745719533" />
+    <state width="1238" height="143" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586746048421" />
     <state width="1878" height="209" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743314" />
     <state width="1878" height="209" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586206884179" />
     <state width="918" height="209" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667303" />
@@ -282,10 +370,10 @@
     <state width="1303" height="209" key="GridCell.Tab.0.center/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="1238" height="143" key="GridCell.Tab.0.left" timestamp="1586745719532">
+    <state width="1238" height="143" key="GridCell.Tab.0.left" timestamp="1586746048420">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="143" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586745719532" />
+    <state width="1238" height="143" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586746048420" />
     <state width="1878" height="209" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743313" />
     <state width="1878" height="209" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586206884179" />
     <state width="918" height="209" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667302" />
@@ -293,10 +381,10 @@
     <state width="1303" height="209" key="GridCell.Tab.0.left/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233826" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014445" />
-    <state width="1238" height="143" key="GridCell.Tab.0.right" timestamp="1586745719533">
+    <state width="1238" height="143" key="GridCell.Tab.0.right" timestamp="1586746048421">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="143" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586745719533" />
+    <state width="1238" height="143" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586746048421" />
     <state width="1878" height="209" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743315" />
     <state width="1878" height="209" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586206884180" />
     <state width="918" height="209" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585500667304" />
