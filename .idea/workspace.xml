@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DFS/NumberOfIsland.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MinimumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/DP/MinimumPathSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +223,8 @@
       <workItem from="1586869697669" duration="78000" />
       <workItem from="1586973035353" duration="1080000" />
       <workItem from="1587146411130" duration="311000" />
-      <workItem from="1587181572428" duration="76000" />
+      <workItem from="1587181572428" duration="226000" />
+      <workItem from="1587214816006" duration="71000" />
     </task>
     <servers />
   </component>

@@ -18,6 +18,7 @@ public class MinimumPathSum {
         int[][] dp = new int[m][n];
         dp[0][0] = grid[0][0];
         int i, j;
+        // initialize the first row and column
         for (i = 1; i < m; i++) {
             dp[i][0] = dp[i - 1][0] + grid[i][0];
         }
