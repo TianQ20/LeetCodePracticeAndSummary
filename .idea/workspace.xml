@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AmazonQuestions/AmazonQuestions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonQuestions/src/TopAmazonQuestions/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Tree/ConstructBinarySearchTreefromPreorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +224,10 @@
       <workItem from="1586973035353" duration="1080000" />
       <workItem from="1587146411130" duration="311000" />
       <workItem from="1587181572428" duration="226000" />
-      <workItem from="1587214816006" duration="947000" />
+      <workItem from="1587214816006" duration="1002000" />
+      <workItem from="1587344877013" duration="374000" />
+      <workItem from="1587400522445" duration="3000" />
+      <workItem from="1587436783523" duration="581000" />
     </task>
     <servers />
   </component>
