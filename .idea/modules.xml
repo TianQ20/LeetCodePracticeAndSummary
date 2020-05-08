@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgoTogether/AlgoTogether.iml" filepath="$PROJECT_DIR$/AlgoTogether/AlgoTogether.iml" />
       <module fileurl="file://$PROJECT_DIR$/AmazonQuestions/AmazonQuestions.iml" filepath="$PROJECT_DIR$/AmazonQuestions/AmazonQuestions.iml" />
       <module fileurl="file://$PROJECT_DIR$/CtCI-6th-Edition/CtCI-6th-Edition.iml" filepath="$PROJECT_DIR$/CtCI-6th-Edition/CtCI-6th-Edition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />

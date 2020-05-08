@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/BinarySearch/LeftmostColumnwithatLeastaOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/AlgoTogether.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/FirstWeek/BullsandCows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +232,9 @@
       <workItem from="1587436783523" duration="697000" />
       <workItem from="1587492267334" duration="257000" />
       <workItem from="1587492547735" duration="1849000" />
-      <workItem from="1587785832460" duration="1399000" />
+      <workItem from="1587785832460" duration="1681000" />
+      <workItem from="1587867275747" duration="24000" />
+      <workItem from="1588973685107" duration="238000" />
     </task>
     <servers />
   </component>
@@ -245,7 +249,6 @@
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
     <state x="371" y="134" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1582318053103" />
-    <state x="556" y="258" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1579581751408" />
     <state x="595" y="200" key="#Project_Structure/54.23.1866.1057@54.23.1866.1057" timestamp="1583877823195" />
     <state x="849" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583877586874">
       <screen x="54" y="23" width="1866" height="1057" />
@@ -314,13 +317,12 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="218" y="323" key="extract.method.dialog/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585445942610" />
-    <state x="586" y="240" key="new project wizard" timestamp="1587255945229">
+    <state x="586" y="240" key="new project wizard" timestamp="1588973734531">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="34" y="11" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1585101702626" />
     <state x="51" y="15" key="new project wizard/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585532114160" />
-    <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1587255945229" />
-    <state x="333" y="215" key="new project wizard/0.23.1920.1057@0.23.1920.1057" timestamp="1579581711671" />
+    <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1588973734531" />
     <state x="624" y="258" key="new project wizard/54.23.1866.1057@54.23.1866.1057" timestamp="1583878536242" />
   </component>
   <component name="XDebuggerManager">
