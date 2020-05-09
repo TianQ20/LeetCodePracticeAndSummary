@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/AlgoTogether.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/FirstWeek/BullsandCows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/FirstWeek/DayoftheWeek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,6 +233,7 @@
       <workItem from="1587785832460" duration="1681000" />
       <workItem from="1587867275747" duration="24000" />
       <workItem from="1588973685107" duration="238000" />
+      <workItem from="1588973953702" duration="234000" />
     </task>
     <servers />
   </component>
