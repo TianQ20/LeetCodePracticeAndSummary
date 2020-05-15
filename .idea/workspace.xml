@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/FirstWeek/MinimumTimeDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/FirstWeek/RotateImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +237,7 @@
       <workItem from="1588973953702" duration="596000" />
       <workItem from="1589061766967" duration="718000" />
       <workItem from="1589544721442" duration="71000" />
-      <workItem from="1589544804595" duration="557000" />
+      <workItem from="1589544804595" duration="1490000" />
     </task>
     <servers />
   </component>
