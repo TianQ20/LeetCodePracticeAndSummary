@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/SecondWeek/Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/SecondWeek_Mock/kth_missing_element_in_sorted_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/SecondWeek_Mock/minimum_absolute_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/caotianqiang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/SecondWeek/Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +240,7 @@
       <workItem from="1589544721442" duration="71000" />
       <workItem from="1589544804595" duration="2712000" />
       <workItem from="1589669453756" duration="8484000" />
-      <workItem from="1589751629006" duration="1590000" />
+      <workItem from="1589751629006" duration="2601000" />
     </task>
     <servers />
   </component>
