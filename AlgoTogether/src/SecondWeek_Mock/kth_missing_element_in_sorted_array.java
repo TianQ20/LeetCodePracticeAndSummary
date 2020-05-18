@@ -10,7 +10,7 @@ public class kth_missing_element_in_sorted_array {
      */
 
     public static int findK(int[] A, int k) {
-        int left = 0, right = A.length - 1;
+        int left = 0, right = A.length;
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (k > getMissing(A, mid)) {
@@ -19,17 +19,25 @@ public class kth_missing_element_in_sorted_array {
                 right = mid;
             }
         }
-        return k + A[left - 1] - getMissing(A, left);
+
+        int pre = getMissing(A, left - 1);
+        int val = 0;
+        if (left > 0) {
+            val = A[left - 1];
+        }
+        return k + val - pre;
     }
 
     static private int getMissing(int[] A, int pivot) {
-        if (pivot < 0 || pivot > A.length - 1) return -1;
+        if (pivot < 0) return 0;
+        if (pivot >= A.length) return 1 << 30;
         return A[pivot] - (pivot + 1);
     }
 
     public static void main(String[] args) {
         int[] A = {2, 3, 5, 8, 13};
-        int k = 2;
-        System.out.println(findK(A, k));
+        for (int i = 0; i <= 10; i++) {
+            System.out.print(" " + findK(A, i));
+        }
     }
 }
