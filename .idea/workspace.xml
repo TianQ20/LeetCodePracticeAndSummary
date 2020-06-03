@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/ThirdWeek/Path_SumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordToOffer/src/Array/p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonQuestions/AmazonQuestions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/AmazonQuestions/AmazonQuestions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonQuestions/src/TopAmazonQuestions/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/AmazonQuestions/src/TopAmazonQuestions/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/Facebook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Facebook/Facebook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/TopFacebookQuestions/IntersectionofTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Facebook/src/TopFacebookQuestions/IntersectionofTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/TopFacebookQuestions/SubarraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Facebook/src/TopFacebookQuestions/SubarraySumEqualsK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microsoft/Microsoft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Microsoft/Microsoft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microsoft/src/FindLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Microsoft/src/FindLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microsoft/src/LongestPrefixofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Microsoft/src/LongestPrefixofArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microsoft/src/LongestSemiAlternatingSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Microsoft/src/LongestSemiAlternatingSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microsoft/src/MinDeletionsToObtainStringinRightFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Microsoft/src/MinDeletionsToObtainStringinRightFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microsoft/src/MinimumMoves.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Microsoft/src/MinimumMoves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microsoft/src/ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Microsoft/src/ms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/Tencent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/Tencent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/BinaryTree/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/BinaryTree/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/BinaryTree/InOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/BinaryTree/InOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/BinaryTree/LevelOrder_Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/BinaryTree/LevelOrder_Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/BinaryTree/LevelOrder_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/BinaryTree/LevelOrder_Recursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/BinaryTree/PostOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/BinaryTree/PostOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/BinaryTree/PreOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/BinaryTree/PreOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/QuickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/QuickSort/QuickSortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/QuickSort/QuickSortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/BestTimetoBuyandSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/BestTimetoBuyandSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/BestTimetoBuyandSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/BestTimetoBuyandSellStockII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/DeleteNodeInALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/DeleteNodeInALinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/Fibonacci/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/Fibonacci/ClimbStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/Fibonacci/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/Fibonacci/FibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/IntersectionofTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/IntersectionofTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/LowestCommonAncestorofABinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/LowestCommonAncestorofABinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MaximumDepthofBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/MaximumDepthofBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/NimGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/NimGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/PowerOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/RemoveDuplicatesfromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ReverseWordsInAStringIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/ReverseWordsInAStringIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tencent/src/Top50LeetCode/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Companies/Tencent/src/Top50LeetCode/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +103,8 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable" />
-      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS" />
-      <recent name="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings" />
-      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedLists" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FirstRound" />
@@ -68,8 +112,12 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ThirdWeek" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LinkedLists" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Companies" />
+      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable" />
+      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/Search_BFS" />
+      <recent name="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings" />
+      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/DP" />
     </key>
   </component>
   <component name="RunManager" selected="Application.kth_missing_element_in_sorted_array">
@@ -245,7 +293,8 @@
       <workItem from="1589751629006" duration="8473000" />
       <workItem from="1590007374550" duration="3243000" />
       <workItem from="1590361673560" duration="2577000" />
-      <workItem from="1590527642979" duration="51000" />
+      <workItem from="1590527642979" duration="533000" />
+      <workItem from="1591155534916" duration="1536000" />
     </task>
     <servers />
   </component>
@@ -259,7 +308,6 @@
     <state x="595" y="200" key="#Project_Structure" timestamp="1583877823195">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
-    <state x="371" y="134" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1582318053103" />
     <state x="595" y="200" key="#Project_Structure/54.23.1866.1057@54.23.1866.1057" timestamp="1583877823195" />
     <state x="849" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583877586874">
       <screen x="54" y="23" width="1866" height="1057" />
@@ -321,22 +369,16 @@
     <state width="1303" height="209" key="GridCell.Tab.0.right/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
     <state width="891" height="209" key="GridCell.Tab.0.right/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state x="395" y="63" width="997" height="777" key="SettingsEditor" timestamp="1581360781026">
-      <screen x="54" y="23" width="2506" height="1417" />
-    </state>
-    <state x="174" y="23" width="997" height="777" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1581347607767" />
-    <state x="348" y="41" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1581277562993" />
-    <state x="395" y="63" key="SettingsEditor/54.23.2506.1417@54.23.2506.1417" timestamp="1581360781026" />
     <state x="218" y="323" key="extract.method.dialog" timestamp="1585445942610">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="218" y="323" key="extract.method.dialog/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585445942610" />
-    <state x="586" y="240" key="new project wizard" timestamp="1588973734531">
+    <state x="586" y="240" key="new project wizard" timestamp="1591155668920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="34" y="11" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1585101702626" />
     <state x="51" y="15" key="new project wizard/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585532114160" />
-    <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1588973734531" />
+    <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1591155668920" />
     <state x="624" y="258" key="new project wizard/54.23.1866.1057@54.23.1866.1057" timestamp="1583878536242" />
   </component>
   <component name="XDebuggerManager">
