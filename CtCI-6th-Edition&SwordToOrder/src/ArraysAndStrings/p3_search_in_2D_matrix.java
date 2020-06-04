@@ -1,6 +1,6 @@
-package Array;
+package ArraysAndStrings;
 
-public class p3 {
+public class p3_search_in_2D_matrix {
     /**
      * 74. Search a 2D Matrix
      */
@@ -103,7 +103,7 @@ public class p3 {
             // start from top right, decrease to left, increase to bottom
             int col = matrix[0].length - 1;
             int row = 0;
-            
+
             while (col >= 0 && row <= matrix.length - 1) {
                 if (target == matrix[row][col]) {
                     return true;
