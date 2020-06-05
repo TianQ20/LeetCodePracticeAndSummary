@@ -2,51 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p4_extension_combine_two_sorted_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordToOrder/src/p3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordToOrder/src/p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordToOrder/src/p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordToOrder/src/p6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/CtCI-6th-Edition&amp;SwordToOrder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/CtCI-6th-Edition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/AssortedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/AssortedMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_Bitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_BooleanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_BooleanArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_ForLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q2_Check_Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q2_Check_Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q3_URLify_Trim.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q3_URLify_Trim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_Common.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_PalindromePermutation_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_PalindromePermutation_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_PalindromePermutation_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_PalindromePermutation_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_PalindromePermutation_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_PalindromePermutation_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q5_OneWay_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q5_OneWay_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q5_OneWay_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q5_OneWay_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q5_OneWay_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q5_OneWay_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q6_StringCompression_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q6_StringCompression_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q6_StringCompression_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q6_StringCompression_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q7_RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q7_RotateMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q7_illustration.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q7_illustration.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q8_ZeroMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q8_ZeroMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q9_StringRotation_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q9_StringRotation_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q9_StringRotation_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q9_StringRotation_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p3_search_in_2D_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p3_search_in_2D_matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p4_extension_combine_two_sorted_array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p4_replace_space_StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p4_replace_space_StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p4_replace_space_twoPointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p4_replace_space_twoPointers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/AssortedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/AssortedMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/BTreePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/BTreePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/BitVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/BitVector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/LinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/LinkedListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/TrieNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q1_RemoveDups_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q1_RemoveDups_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q1_RemoveDups_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q1_RemoveDups_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q1_RemoveDups_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q1_RemoveDups_C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q2_ReturnKthToLast_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q2_ReturnKthToLast_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q2_ReturnKthToLast_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q2_ReturnKthToLast_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q2_ReturnKthToLast_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q2_ReturnKthToLast_C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q3_DeleteMiddleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q3_DeleteMiddleNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +257,7 @@
       <workItem from="1590527642979" duration="533000" />
       <workItem from="1591155534916" duration="1723000" />
       <workItem from="1591282375995" duration="170000" />
-      <workItem from="1591282549575" duration="10767000" />
+      <workItem from="1591282549575" duration="12549000" />
     </task>
     <servers />
   </component>
@@ -384,6 +343,10 @@
     <state x="51" y="15" key="new project wizard/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585532114160" />
     <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1591329040527" />
     <state x="624" y="258" key="new project wizard/54.23.1866.1057@54.23.1866.1057" timestamp="1583878536242" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1591334072248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591334072248" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
