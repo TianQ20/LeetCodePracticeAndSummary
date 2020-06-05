@@ -57,7 +57,7 @@ public class p9 {
         }
     }
 
-    
+
 /**
  * Your CQueue object will be instantiated and called as such:
  * CQueue obj = new CQueue();
