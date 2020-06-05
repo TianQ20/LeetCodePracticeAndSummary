@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p4_extension_combine_two_sorted_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p4_extension_combine_two_sorted_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordToOrder/src/p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/CtCI-6th-Edition&amp;SwordToOrder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/CtCI-6th-Edition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/AssortedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/AssortedMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_Bitwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_BooleanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_BooleanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_ForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Is_Unique_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Is_Unique_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q1_Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q1_Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q2_Check_Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q2_Check_Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q3_URLify_Trim.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q3_URLify_Trim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_PalindromePermutation_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_PalindromePermutation_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_PalindromePermutation_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_PalindromePermutation_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q4_PalindromePermutation_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q4_PalindromePermutation_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q5_OneWay_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q5_OneWay_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q5_OneWay_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q5_OneWay_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q5_OneWay_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q5_OneWay_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q6_StringCompression_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q6_StringCompression_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q6_StringCompression_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q6_StringCompression_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q7_RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q7_RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q7_illustration.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q7_illustration.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q8_ZeroMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q8_ZeroMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q9_StringRotation_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q9_StringRotation_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/Q9_StringRotation_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/Q9_StringRotation_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p3_search_in_2D_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p3_search_in_2D_matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p4_extension_combine_two_sorted_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p4_replace_space_StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p4_replace_space_StringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/ArraysAndStrings/p4_replace_space_twoPointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/ArraysAndStrings/p4_replace_space_twoPointers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/AssortedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/AssortedMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/BTreePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/BTreePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/BitVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/BitVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/LinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/LinkedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/CtCILibrary/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/CtCILibrary/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q1_RemoveDups_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q1_RemoveDups_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q1_RemoveDups_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q1_RemoveDups_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q1_RemoveDups_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q1_RemoveDups_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q2_ReturnKthToLast_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q2_ReturnKthToLast_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q2_ReturnKthToLast_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q2_ReturnKthToLast_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q2_ReturnKthToLast_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q2_ReturnKthToLast_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtCI-6th-Edition&amp;SwordToOrder/src/LinkedLists/Q3_DeleteMiddleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CtCI-6th-Edition/src/LinkedLists/Q3_DeleteMiddleNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +119,7 @@
   <component name="RunManager" selected="Application.p4_extension_combine_two_sorted_array">
     <configuration name="Q3_URLify1$Trim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q3_URLify1$Trim" />
-      <module name="CtCI-6th-Edition&amp;SwordToOrder" />
+      <module name="CtCI-6th-Edition" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ArraysAndStrings.Q3_UrLify_General" />
@@ -89,7 +132,7 @@
     </configuration>
     <configuration name="Q3_UrLify_General" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.Q3_UrLify_General" />
-      <module name="CtCI-6th-Edition&amp;SwordToOrder" />
+      <module name="CtCI-6th-Edition" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ArraysAndStrings.Q3_UrLify_General" />
@@ -102,7 +145,7 @@
     </configuration>
     <configuration name="p4_extension_combine_two_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.p4_extension_combine_two_sorted_array" />
-      <module name="CtCI-6th-Edition&amp;SwordToOrder" />
+      <module name="CtCI-6th-Edition" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ArraysAndStrings.*" />
@@ -115,7 +158,7 @@
     </configuration>
     <configuration name="p4_replace_space_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.p4_replace_space_StringBuilder" />
-      <module name="CtCI-6th-Edition&amp;SwordToOrder" />
+      <module name="CtCI-6th-Edition" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ArraysAndStrings.Q3_UrLify_General" />
@@ -128,7 +171,7 @@
     </configuration>
     <configuration name="p4_replace_space_twoPointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.p4_replace_space_twoPointers" />
-      <module name="CtCI-6th-Edition&amp;SwordToOrder" />
+      <module name="CtCI-6th-Edition" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ArraysAndStrings.*" />
@@ -255,7 +298,7 @@
       <workItem from="1590527642979" duration="533000" />
       <workItem from="1591155534916" duration="1723000" />
       <workItem from="1591282375995" duration="170000" />
-      <workItem from="1591282549575" duration="9037000" />
+      <workItem from="1591282549575" duration="10767000" />
     </task>
     <servers />
   </component>
@@ -282,48 +325,48 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="1396" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585495687333" />
-    <state width="1878" height="208" key="GridCell.Tab.0.bottom" timestamp="1591296486055">
+    <state width="1878" height="208" key="GridCell.Tab.0.bottom" timestamp="1591296552785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589864970735" />
     <state width="1878" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743315" />
-    <state width="1878" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591296486055" />
+    <state width="1878" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591296552785" />
     <state width="1051" height="158" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1589670203835" />
     <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1589833073335" />
     <state width="1303" height="209" key="GridCell.Tab.0.bottom/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.bottom/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/54.23.1226.777@54.23.1226.777" timestamp="1583286158670" />
     <state width="891" height="209" key="GridCell.Tab.0.bottom/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="1878" height="208" key="GridCell.Tab.0.center" timestamp="1591296486054">
+    <state width="1878" height="208" key="GridCell.Tab.0.center" timestamp="1591296552784">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="198" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589864970735" />
     <state width="1878" height="209" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743314" />
-    <state width="1878" height="208" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591296486054" />
+    <state width="1878" height="208" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591296552784" />
     <state width="1051" height="158" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1589670203834" />
     <state width="1238" height="198" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1589833073334" />
     <state width="1303" height="209" key="GridCell.Tab.0.center/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
     <state width="1303" height="209" key="GridCell.Tab.0.center/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233827" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.center/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014446" />
-    <state width="1878" height="208" key="GridCell.Tab.0.left" timestamp="1591296486053">
+    <state width="1878" height="208" key="GridCell.Tab.0.left" timestamp="1591296552782">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="198" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589864970734" />
     <state width="1878" height="209" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743313" />
-    <state width="1878" height="208" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591296486053" />
+    <state width="1878" height="208" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591296552782" />
     <state width="1051" height="158" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1589670203834" />
     <state width="1238" height="198" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1589833073333" />
     <state width="1303" height="209" key="GridCell.Tab.0.left/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100010" />
     <state width="1303" height="209" key="GridCell.Tab.0.left/53.23.1867.1057@53.23.1867.1057" timestamp="1584762233826" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/54.23.1226.777@54.23.1226.777" timestamp="1583286158669" />
     <state width="891" height="209" key="GridCell.Tab.0.left/54.23.1866.1057@54.23.1866.1057" timestamp="1584738014445" />
-    <state width="1878" height="208" key="GridCell.Tab.0.right" timestamp="1591296486054">
+    <state width="1878" height="208" key="GridCell.Tab.0.right" timestamp="1591296552784">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1238" height="198" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589864970735" />
     <state width="1878" height="209" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1586740743315" />
-    <state width="1878" height="208" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591296486054" />
+    <state width="1878" height="208" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591296552784" />
     <state width="1051" height="158" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1589670203835" />
     <state width="1238" height="198" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1589833073334" />
     <state width="1303" height="209" key="GridCell.Tab.0.right/48.23.1872.1057@48.23.1872.1057" timestamp="1584851100011" />
@@ -334,12 +377,12 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="218" y="323" key="extract.method.dialog/0.23.1920.1057/-1280.265.1280.777@0.23.1920.1057" timestamp="1585445942610" />
-    <state x="586" y="240" key="new project wizard" timestamp="1591155668920">
+    <state x="586" y="240" key="new project wizard" timestamp="1591329040527">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="34" y="11" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1585101702626" />
     <state x="51" y="15" key="new project wizard/0.0.1920.1080/-1280.242.1280.800@0.0.1920.1080" timestamp="1585532114160" />
-    <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1591155668920" />
+    <state x="586" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1591329040527" />
     <state x="624" y="258" key="new project wizard/54.23.1866.1057@54.23.1866.1057" timestamp="1583878536242" />
   </component>
   <component name="XDebuggerManager">
