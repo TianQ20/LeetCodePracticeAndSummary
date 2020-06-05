@@ -30,7 +30,7 @@ public class p6 {
     }
 
 
-    
+
     class Solution_2 {
         ArrayList<Integer> res = new ArrayList<>();
         public int[] reversePrint(ListNode head) {
