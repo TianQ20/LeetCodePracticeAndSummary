@@ -1,7 +1,9 @@
 package LintCode_Greedy;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 public class Single_Number {
     public class Solution_1 {
@@ -29,6 +31,29 @@ public class Single_Number {
                 result ^= A[i];
             }
             return result;
+        }
+    }
+
+
+
+    public class Solution_math {
+        public int singleNumber(int[] A) {
+            // write your code here
+            Set<Integer> set = new HashSet<>();
+            for (int i : A) {
+                set.add(i);
+            }
+
+            int set_sum = 0;
+            for (int i : set) {
+                set_sum += i;
+            }
+
+            int sum = 0;
+            for (int i : A) {
+                sum += i;
+            }
+            return set_sum * 2 - sum;
         }
     }
 }
