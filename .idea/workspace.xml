@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy/Single_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy/Single_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy/Single_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Bitwise/Single_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +263,7 @@
       <workItem from="1591155534916" duration="1723000" />
       <workItem from="1591282375995" duration="170000" />
       <workItem from="1591282549575" duration="12894000" />
-      <workItem from="1591372869520" duration="7297000" />
+      <workItem from="1591372869520" duration="10962000" />
     </task>
     <servers />
   </component>
