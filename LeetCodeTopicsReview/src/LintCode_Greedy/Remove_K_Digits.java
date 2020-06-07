@@ -3,7 +3,7 @@ package LintCode_Greedy;
 import java.util.Stack;
 
 public class Remove_K_Digits {
-    class Solution_1 {
+    class Solution {
         public String removeKdigits_1(String num, int k) {
             Stack<Character> s = new Stack<>();
             char[] ch = num.toCharArray();
