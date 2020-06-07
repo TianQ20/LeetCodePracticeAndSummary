@@ -4,11 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Single_Number {
-    public class Solution {
-        /**
-         * @param A: An integer array
-         * @return: An integer
-         */
+    public class Solution_1 {
         public int singleNumber(int[] A) { // time O(n), space O(n)
             Map<Integer, Integer> map = new HashMap<>();
             for (int i : A) {
@@ -21,6 +17,18 @@ public class Single_Number {
                 }
             }
             return 0;
+        }
+    }
+
+
+    public class Solution_2 { // bitwise, XOR is commutative, O(n), one pass
+        public int singleNumber(int[] A) {
+            // write your code here
+            int result = 0;
+            for (int i = 0; i < A.length; i++) {
+                result ^= A[i];
+            }
+            return result;
         }
     }
 }
