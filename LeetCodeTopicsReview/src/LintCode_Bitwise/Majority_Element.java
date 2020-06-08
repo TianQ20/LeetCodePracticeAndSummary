@@ -36,4 +36,5 @@ public class Majority_Element {
                 return candidate;
             }
         }
+    }
 }
