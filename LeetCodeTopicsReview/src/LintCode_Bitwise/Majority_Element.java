@@ -22,17 +22,18 @@ public class Majority_Element {
 
 
     class Solution_2 {
-        public int majorityElement(int[] nums) {
-            int major = nums[0], count = 1;
-            for (int i = 1; i < nums.length; i++) {
-                if (nums[i] == major) {
-                    count++; // same element, can not crash, increase count by 1
-                } else if (count == 0) { // crashed, need to update major to a new element
-                    count++;
-                    major = nums[i];
-                } else count--; // crash 1 different element
+        class Solution {
+            public int majorityElement(int[] nums) {
+                int candidate = 0, count = 0;
+                for (int num : nums) {
+                    if (count == 0) {
+                        candidate = num;
+                        count++;
+                    } else if (candidate == num) {
+                        count++;
+                    } else count--;
+                }
+                return candidate;
             }
-            return major;
         }
-    }
 }
