@@ -1,4 +1,4 @@
-package LintCode_Greedy;
+package LintCode_BFS;
 
 public class Jump_Game_II {
     class Solution {
