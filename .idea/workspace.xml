@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Fifth_Week/Fraction_to_Recurring_Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Fifth_Week/Implement_Stack_using_Queues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +264,7 @@
       <workItem from="1591282375995" duration="170000" />
       <workItem from="1591282549575" duration="12894000" />
       <workItem from="1591372869520" duration="19197000" />
-      <workItem from="1591891104746" duration="842000" />
+      <workItem from="1591891104746" duration="1160000" />
     </task>
     <servers />
   </component>
