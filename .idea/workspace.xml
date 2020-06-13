@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Fifth_Week/Task_Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/Cheapest_Flights_Within_K_Stops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/caotianqiang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/caotianqiang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +57,8 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Array" />
-      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy" />
-      <recent name="$PROJECT_DIR$/SwordToOrder/src" />
-      <recent name="$PROJECT_DIR$/Companies" />
-      <recent name="$PROJECT_DIR$/First&amp;SecondRound/src/HashTable" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedLists" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FirstRound" />
@@ -68,8 +66,12 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ThirdWeek" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LinkedLists" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AlgoTogether/src/Fifth_Week" />
+      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Array" />
+      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy" />
+      <recent name="$PROJECT_DIR$/SwordToOrder/src" />
+      <recent name="$PROJECT_DIR$/Companies" />
     </key>
   </component>
   <component name="RunManager" selected="Application.quicksort">
@@ -263,7 +265,7 @@
       <workItem from="1591282375995" duration="170000" />
       <workItem from="1591282549575" duration="12894000" />
       <workItem from="1591372869520" duration="19197000" />
-      <workItem from="1591891104746" duration="2431000" />
+      <workItem from="1591891104746" duration="3532000" />
     </task>
     <servers />
   </component>
