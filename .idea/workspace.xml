@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/First&amp;SecondRound/src/Array/Least_Number_of_Unique_Integers_after_K_Removals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/Trie.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +57,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LinkedLists" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week" />
+      <recent name="$PROJECT_DIR$/AlgoTogether/src/Fifth_Week" />
+      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Array" />
+      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy" />
+      <recent name="$PROJECT_DIR$/SwordToOrder/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FirstRound" />
@@ -65,12 +70,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ThirdWeek" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AlgoTogether/src/Fifth_Week" />
-      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Array" />
-      <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy" />
-      <recent name="$PROJECT_DIR$/SwordToOrder/src" />
-      <recent name="$PROJECT_DIR$/Companies" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedLists" />
     </key>
   </component>
   <component name="RunManager" selected="Application.quicksort">
@@ -266,7 +267,8 @@
       <workItem from="1591372869520" duration="19197000" />
       <workItem from="1591891104746" duration="3664000" />
       <workItem from="1592110476812" duration="212000" />
-      <workItem from="1592110692816" duration="103000" />
+      <workItem from="1592110692816" duration="202000" />
+      <workItem from="1592233728786" duration="2191000" />
     </task>
     <servers />
   </component>
