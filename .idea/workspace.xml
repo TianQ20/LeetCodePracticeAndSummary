@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/Balanced_Binary_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/Binary_Tree_Inorder_Traversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -269,7 +268,7 @@
       <workItem from="1591891104746" duration="3664000" />
       <workItem from="1592110476812" duration="212000" />
       <workItem from="1592110692816" duration="202000" />
-      <workItem from="1592233728786" duration="3636000" />
+      <workItem from="1592233728786" duration="4174000" />
     </task>
     <servers />
   </component>
