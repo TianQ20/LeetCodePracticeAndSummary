@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/The_Skyline_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week/Remove_Covered_Intervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/SwordToOrder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/SwordToOffer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p10_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p10_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p10_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p11.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p4.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p5.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p6.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p7.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/p9.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/p9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/quicksort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordToOrder/src/quicksort.png" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/src/quicksort.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +155,7 @@
     </configuration>
     <configuration name="quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quicksort" />
-      <module name="SwordToOrder" />
+      <module name="SwordToOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -268,7 +281,8 @@
       <workItem from="1591891104746" duration="3664000" />
       <workItem from="1592110476812" duration="212000" />
       <workItem from="1592110692816" duration="202000" />
-      <workItem from="1592233728786" duration="7278000" />
+      <workItem from="1592233728786" duration="8219000" />
+      <workItem from="1592445397202" duration="1178000" />
     </task>
     <servers />
   </component>
