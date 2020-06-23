@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Adding_Two_Negabinary_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Bitwise_AND_of_Numbers_Range.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Convert_to_Base2.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Convert_to_Base2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Base_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Base_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +273,7 @@
       <workItem from="1592445397202" duration="4554000" />
       <workItem from="1592678444437" duration="2279000" />
       <workItem from="1592689842376" duration="1000" />
-      <workItem from="1592749818069" duration="1899000" />
+      <workItem from="1592749818069" duration="3612000" />
     </task>
     <servers />
   </component>

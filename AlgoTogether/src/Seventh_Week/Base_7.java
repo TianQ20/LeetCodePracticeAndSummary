@@ -23,7 +23,7 @@ public class Base_7 {
     }
 
 
-    class Solution {
+    class Solution_2 {
         public String convertToBase7(int num) {
             if (num < 0) return "-" + convertToBase7(-num);
             if (num < 7) return Integer.toString(num);
