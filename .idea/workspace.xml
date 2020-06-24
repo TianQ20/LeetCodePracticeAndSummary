@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Minimum_Area_Rectangle_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week/Random_Flip_Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +273,7 @@
       <workItem from="1592678444437" duration="2279000" />
       <workItem from="1592689842376" duration="1000" />
       <workItem from="1592749818069" duration="4546000" />
-      <workItem from="1593011562300" duration="27000" />
+      <workItem from="1593011562300" duration="691000" />
     </task>
     <servers />
   </component>
