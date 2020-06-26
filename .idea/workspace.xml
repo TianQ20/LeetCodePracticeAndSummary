@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week_Mock/Reordered_Power_of_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week_Mock/Interval_List_Intersections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week_Mock/Keys_and_Rooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week_Mock/Smallest_String_Starting_From_Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week_Mock/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,22 +59,23 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LinkedLists" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FirstRound" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Seventh_Week_Mock" />
+      <recent name="Sixth_Week" />
+      <recent name="ThirdWeek" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AlgoTogether/src/Sixth_Week" />
       <recent name="$PROJECT_DIR$/AlgoTogether/src/Fifth_Week" />
       <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Array" />
       <recent name="$PROJECT_DIR$/LeetCodeTopicsReview/src/LintCode_Greedy" />
       <recent name="$PROJECT_DIR$/SwordToOrder/src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/FirstRound" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Sixth_Week" />
-      <recent name="ThirdWeek" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="LinkedLists" />
     </key>
   </component>
   <component name="RunManager" selected="Application.SegmentTreeMinimumRangeQuery">
@@ -274,7 +278,7 @@
       <workItem from="1592689842376" duration="1000" />
       <workItem from="1592749818069" duration="4546000" />
       <workItem from="1593011562300" duration="1297000" />
-      <workItem from="1593183581095" duration="102000" />
+      <workItem from="1593183581095" duration="840000" />
     </task>
     <servers />
   </component>
