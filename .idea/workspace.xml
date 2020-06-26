@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-19/1288. Remove Covered Intervals.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-20/218. The Skyline Problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-20/307. Range Sum Query - Mutable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-20/990. Satisfiability of Equality Equations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-20/segment_tree/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-20/segment_tree/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-20/segment_tree/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-20/segment_tree/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-21/201. Bitwise AND of Numbers Range.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-21/898. Bitwise ORs of Subarrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-21/baseN bitwise conclution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-23/1488. Avoid Flood in The City.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-23/523. Continuous Subarray Sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/1015. Smallest Integer Divisible by K.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/396. Rotate Function.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/400. Nth Digit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/519. Random Flip Matrix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/777. Swap Adjacent in LR String.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/963. Minimum Area Rectangle II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/rectangle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-06-24/shuffle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Seventh_Week_Mock/Reordered_Power_of_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,6 +274,7 @@
       <workItem from="1592689842376" duration="1000" />
       <workItem from="1592749818069" duration="4546000" />
       <workItem from="1593011562300" duration="1297000" />
+      <workItem from="1593183581095" duration="102000" />
     </task>
     <servers />
   </component>
