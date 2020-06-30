@@ -1,29 +1,20 @@
-package EighthWeek;
+# Allocate Books
 
-import java.util.Arrays;
+## Problem Statement
 
+Given an array of integers A of size N and an integer B.
+
+College library has N bags,the ith book has A[i] number of pages.
+
+You have to allocate books to B number of students so that maximum number of pages alloted to a student is minimum.
+
+## Intuition
+
+Using binary search to narrow down the search range.
+**// add image illustration**
+
+```java
 public class Allocate_Books {
-    /**
-     * Allocate minimum number of pages
-     *
-     * Given number of pages in n different books and m students.
-     * The books are arranged in ascending order of number of pages.
-     * Every student is assigned to read some consecutive books.
-     * The task is to assign books in such a way that the maximum number of pages assigned to a student is minimum.
-     */
-
-    public static void main(String[] args) {
-        int[] A = new int[] {12, 34, 67, 90};
-        int n = A.length;
-        int B = 2;
-        int res = allocate_books(A, n, B);
-        System.out.println(res);
-
-        int[] A2 = new int[] {5, 17, 100, 11};
-        int m = A2.length;
-        int C = 4;
-        System.out.println(allocate_books(A2, m, C));
-    }
 
     public static int allocate_books(int[] A, int n, int B) {
         if (n < B) return -1;
@@ -60,9 +51,23 @@ public class Allocate_Books {
                     return false;
                 }
             }
-
             curSum += A[i];
         }
         return true;
     }
+
+    // driver function
+    public static void main(String[] args) {
+        int[] A = new int[] {12, 34, 67, 90};
+        int n = A.length;
+        int B = 2;
+        int res = allocate_books(A, n, B);
+        System.out.println(res);
+
+        int[] A2 = new int[] {5, 17, 100, 11}; // why not increasing order also works?
+        int m = A2.length;
+        int C = 4;
+        System.out.println(allocate_books(A2, m, C));
+    }
 }
+```
