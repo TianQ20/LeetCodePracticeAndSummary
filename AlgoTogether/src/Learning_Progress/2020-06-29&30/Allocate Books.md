@@ -2,16 +2,18 @@
 
 ## Problem Statement
 
-Given an array of integers A of size N and an integer B.
+Given an array of integers of size and an integer .
+College library has books, the book has number of pages.
+You have to allocate books to number of students so that the maximum number of pages allocated to a student is minimum.
 
-College library has N bags,the ith book has A[i] number of pages.
+A book will be allocated to exactly one student. Each student has to be allocated at least one book.
+Allotment should be in contiguous order, for example, one student cannot be allocated book 1 and book 3, skipping book 2.
 
-You have to allocate books to B number of students so that maximum number of pages alloted to a student is minimum.
+Calculate and return that minimum possible number.
 
 ## Intuition
 
 Using binary search to narrow down the search range.
-**// add image illustration**
 
 ```java
 public class Allocate_Books {
