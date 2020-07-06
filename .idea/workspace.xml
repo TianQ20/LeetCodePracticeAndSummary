@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-07-02/289. Game of Life.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/2020-07-02/GameOfLife.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/AlgoTogether-Review/week1/299. Bulls and Cows.md" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoTogether/src/Learning_Progress/AlgoTogether-Review/week1/299. Bulls and Cows.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,6 +277,7 @@
       <workItem from="1593183581095" duration="5307000" />
       <workItem from="1593549381830" duration="3205000" />
       <workItem from="1593626103980" duration="599000" />
+      <workItem from="1593998222675" duration="1230000" />
     </task>
     <servers />
   </component>
