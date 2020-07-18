@@ -22,5 +22,29 @@ class Solution {
         return head;
     }
 }
+```
 
+`O(1)` ListNode solution, only when delete the tail node need `O(n)`, so it's general `O(1)`.
+
+```java
+class deleteNode {public static ListNode deleteNode(ListNode head, ListNode val){
+        if (head == null || val == null){
+            return null;
+        }
+        if (val.next != null){   // 待删除节点不是尾节点
+            ListNode next = val.next;
+            val.val = next.val;
+            val.next = next.next;
+        } else if (head == val){   // 待删除节点只有一个节点，此节点为头节点, 删掉直接返回null了
+            head = null;
+        } else {   // 待删除节点为尾节点
+            ListNode cur = head;
+            while (cur.next != val){
+                cur = cur.next;
+            }
+            cur.next = null;
+        }
+        return head;
+    }
+}
 ```
