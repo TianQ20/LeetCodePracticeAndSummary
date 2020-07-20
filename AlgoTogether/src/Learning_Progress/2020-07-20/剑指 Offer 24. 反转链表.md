@@ -30,6 +30,8 @@ newHead = reverseList(2)
 1 <- 2 <- 3 <- 4 <- 5
 |
 null
+
+Since it's recursion, finally the newHead should be 5, but in the process of recursion, the requence should be this way as top description.
 ```
 
 ```java
