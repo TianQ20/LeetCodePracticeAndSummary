@@ -31,7 +31,7 @@ newHead = reverseList(2)
 |
 null
 
-Since it's recursion, finally the newHead should be 5, but in the process of recursion, the requence should be this way as top description.
+Since it‘s recursion, finally the newHead should be 5, but in the process of recursion, the requence should follow above description.
 ```
 
 ```java
