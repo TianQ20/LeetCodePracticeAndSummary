@@ -62,3 +62,39 @@ class Solution {
     }
 }
 ```
+
+剑指 Offer 32 - III. 从上到下打印二叉树 III
+
+```java
+class Solution {
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (root == null) return res;
+        boolean shift = false;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+        while (!q.isEmpty()) {
+            int size = q.size();
+            List<Integer> level = new LinkedList<>();
+            for (int i = 0; i < size; i++) {
+                TreeNode cur = q.poll();
+                if (shift) {
+                    level.add(0, cur.val);
+                } else {
+                    level.add(cur.val);
+                }
+
+                if (cur.left != null) {
+                    q.offer(cur.left);
+                }
+                if (cur.right != null) {
+                    q.offer(cur.right);
+                }
+            }
+            res.add(level);
+            shift = !shift;
+        }
+        return res;
+    }
+}
+```
