@@ -1,5 +1,29 @@
 # Single Number
 
+137.Single Number II
+
+**Brute force HashMap**
+`O(n)` time, `O(n)` space.
+
+```java
+class Solution {
+    public int singleNumber(int[] nums) {
+        int res = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i : nums) {
+            map.put(i, map.getOrDefault(i, 0) + 1);
+        }
+
+        for (int i : nums) {
+            if (map.get(i) == 1) {
+                res = i;
+            }
+        }
+        return res;
+    }
+}
+```
+
 260.Single Number III
 
 **Brute force HashMap**
