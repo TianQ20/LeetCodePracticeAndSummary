@@ -69,9 +69,12 @@ class Solution {
         int n  = postorder.length;
         int prev = Integer.MAX_VALUE;
         for (int i = n - 1; i >= 0; i--) {
+            // // 左子树元素必须要小于递增栈被peek访问的元素，否则就不是二叉搜索树
             if (postorder[i] > prev) {
                 return false;
             }
+            // 数组元素小于单调栈的元素了，表示往左子树走了，记录下上个根节点
+            // 找到这个左子树对应的根节点，之前右子树全部弹出，不再记录，因为不可能在往根节点的右子树走了
             while (!stack.isEmpty() && postorder[i] < stack.peek()) {
                 prev = stack.pop();
             }
