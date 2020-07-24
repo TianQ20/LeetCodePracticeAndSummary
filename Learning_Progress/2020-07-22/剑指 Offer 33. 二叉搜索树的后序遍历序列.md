@@ -60,3 +60,24 @@ class Solution {
 }
 ```
 
+Monotonic stack.
+
+```java
+class Solution {
+    public boolean verifyPostorder(int[] postorder) {
+        Stack<Integer> stack = new Stack<>();
+        int n  = postorder.length;
+        int prev = Integer.MAX_VALUE;
+        for (int i = n - 1; i >= 0; i--) {
+            if (postorder[i] > prev) {
+                return false;
+            }
+            while (!stack.isEmpty() && postorder[i] < stack.peek()) {
+                prev = stack.pop();
+            }
+            stack.push(postorder[i]);
+        }
+        return true;
+    }
+}
+```
