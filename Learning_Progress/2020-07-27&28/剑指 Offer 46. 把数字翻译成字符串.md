@@ -22,3 +22,18 @@ class Solution {
     }
 }
 ```
+
+Recursion.
+
+```java
+class Solution {
+    public int translateNum(int num) {
+        if (num <= 9) return 1;
+        int part = num % 100;
+        if (part > 25 || part < 10) {
+            return translateNum(num / 10);
+        }
+        return translateNum(num / 100) + translateNum(num / 10);
+    }
+}
+```
