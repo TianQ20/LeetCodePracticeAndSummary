@@ -81,3 +81,20 @@ public class Solution {
     }
 }
 ```
+
+Concise two pointers solution.
+
+Node1 and Node2 both travel `lenA + lenB - common` length.
+
+```java
+public class Solution {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        ListNode node1 = headA, node2 = headB;
+        while (node1 != node2) {
+            node1 = node1 != null ? node1.next : headB;
+            node2 = node2 != null ? node2.next : headA;
+        }
+        return node1;
+    }
+}
+```
