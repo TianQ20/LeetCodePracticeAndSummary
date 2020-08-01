@@ -47,7 +47,7 @@ class Solution {
 ```
 
 another backtracking solution, use hash set to avoid duplicates.
-swap the character in two indexs, continue until reach to the end, then recover the swap.
+swap the character of two indexs, continue until reach to the end, then recover the swap.
 
 ```java
 class Solution {
