@@ -1,5 +1,7 @@
 # 剑指 Offer 55 - II. 平衡二叉树
 
+Multiple pass.
+
 ```java
 class Solution {
     public boolean isBalanced(TreeNode root) {
@@ -15,6 +17,9 @@ class Solution {
     }
 }
 ```
+
+One Pass.
+check left and right node in every recursion to avoid further useless search.
 
 ```java
 class Solution {
