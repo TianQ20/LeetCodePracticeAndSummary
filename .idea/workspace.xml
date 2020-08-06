@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22de398f-cd96-43c6-9f0d-421beff13be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_Progress/2020-08-03/125. Valid Palindrome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +276,7 @@
       <workItem from="1595537851689" duration="359000" />
       <workItem from="1596062865346" duration="4000" />
       <workItem from="1596259124198" duration="184000" />
-      <workItem from="1596479486199" duration="370000" />
+      <workItem from="1596479486199" duration="582000" />
     </task>
     <servers />
   </component>
