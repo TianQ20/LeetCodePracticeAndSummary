@@ -1,4 +1,4 @@
-# 剑指 Offer 58 - I. 翻转单词顺序
+# 剑指 Offer 58 - I. 翻转单词顺序 && 151. Reverse Words in a String
 
 Straight forward two pointers solution.
 Reverse the whole string first, then reverse each word, delete leading, tailing and multiple spaces.
