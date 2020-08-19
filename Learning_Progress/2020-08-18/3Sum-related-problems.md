@@ -79,3 +79,60 @@ class Solution {
     }
 }
 ```
+
+## 18. 4Sum
+
+generalize to k sum situation. Use recursion to get 2 sum.
+
+```java
+class Solution {
+    int len = 0;
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        len = nums.length;
+        Arrays.sort(nums);
+        return kSum(nums, target, 4, 0);
+    }
+
+    private List<List<Integer>> kSum (int[] nums, int target, int k, int index) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (index >= len) {
+            return res;
+        }
+        if (k == 2) {
+            int lo = index, hi = len - 1;
+            while (lo < hi) {
+                if (nums[lo] + nums[hi] == target) {
+                    List<Integer> temp = new ArrayList<>();
+                    temp.add(nums[lo]);
+                    temp.add(nums[hi]);
+                    res.add(temp);
+                    while (lo < hi && nums[hi] == nums[hi - 1]) {
+                        hi--;
+                    }
+                    while (lo < hi && nums[lo] == nums[lo + 1]) {
+                        lo++;
+                    }
+                    lo++;
+                    hi--;
+                } else if (nums[lo] + nums[hi] < target) {
+                    lo++;
+                } else hi--;
+            }
+        } else {
+            for (int i = index; i < len - k + 1; i++) {
+                List<List<Integer>> tmpList = kSum(nums, target - nums[i], k - 1, i + 1);
+                if (tmpList != null) {
+                    for (List<Integer> t : tmpList) {
+                        t.add(0, nums[i]); // add to the first place
+                    }
+                    res.addAll(tmpList);
+                }
+                while (i < len - 1 && nums[i] == nums[i + 1]) { // skip duplicates
+                    i++;
+                }
+            }
+        }
+        return res;
+    }
+}
+```
